@@ -1,6 +1,6 @@
 function loadImage() {
-    var loader = document.getElementById("loader");
-    var image = document.getElementById("dogImage");
+    let loader = document.getElementById("loader");
+    let image = document.getElementById("dogImage");
     loader.style.display = "block";
     image.style.display = "none";
   
